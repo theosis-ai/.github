@@ -1,1 +1,1 @@
-Theosis AI is a portfolio of work by [Justin Goheen](https://www.github.com/jxtngx) focused on deep learning and generative AI with Meta Llama, PyTorch native frameworks, NVIDIA NeMo, and Vercel's NextJS and AI SDK.
+Theosis AI is focused on AI with Meta's Llama, Llama Stack, PyTorch, and React..
